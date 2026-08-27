@@ -37,6 +37,30 @@ I currently contribute to academic and applied research at **Sahand University o
 ![IoT](https://img.shields.io/badge/IoT-Connected_Systems-00979D?style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+## Featured AI Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/partomahsiavash/sentinel-ai-ids"><img src="https://raw.githubusercontent.com/partomahsiavash/sentinel-ai-ids/main/assets/cover.png" alt="Sentinel AI IDS"></a>
+<h3><a href="https://github.com/partomahsiavash/sentinel-ai-ids">Sentinel AI IDS</a></h3>
+Explainable machine learning for network intrusion detection, threat scoring, model comparison, and security analytics.
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/partomahsiavash/medvision-xai"><img src="https://raw.githubusercontent.com/partomahsiavash/medvision-xai/main/assets/cover.png" alt="MedVision XAI"></a>
+<h3><a href="https://github.com/partomahsiavash/medvision-xai">MedVision XAI</a></h3>
+Responsible explainable-AI imaging research with occlusion sensitivity, a model card, and explicit clinical-use boundaries.
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/partomahsiavash/defectlens-ai"><img src="https://raw.githubusercontent.com/partomahsiavash/defectlens-ai/main/assets/cover.png" alt="DefectLens AI"></a>
+<h3><a href="https://github.com/partomahsiavash/defectlens-ai">DefectLens AI</a></h3>
+Unsupervised visual anomaly detection, defect localization, evaluation curves, and interactive quality inspection.
+</td>
+</tr>
+</table>
+
+> Each repository includes reproducible synthetic demonstrations, generated evidence artifacts, tests, CI, and clear limitations. Demo metrics are not presented as production or clinical benchmarks.
+
 ## Selected Research & Engineering Work
 
 - **Hybrid Fourier–Wavelet–Attention Operator Learning** — multiscale deep learning for solving families of PDEs.
