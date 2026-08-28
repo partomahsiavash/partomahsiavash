@@ -37,7 +37,20 @@ I currently contribute to academic and applied research at **Sahand University o
 ![IoT](https://img.shields.io/badge/IoT-Connected_Systems-00979D?style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## Featured AI Projects
+## Applied AI Systems Portfolio
+
+| Project | Focus |
+|---|---|
+| [AI Crop Maturity Detection](https://github.com/partomahsiavash/ai-crop-maturity-detection) | Real-time harvest-readiness analysis with interpretable visual and growth signals |
+| [AI Fall Detection and Alert](https://github.com/partomahsiavash/ai-fall-detection-alert) | Privacy-aware pose and motion analytics with explicit safety boundaries |
+| [Hand-Controlled AI Coding Agents](https://github.com/partomahsiavash/hand-controlled-ai-agents) | Human-in-the-loop gesture interface with confirmation-gated agent control |
+| [AI Night Security System](https://github.com/partomahsiavash/ai-night-security-system) | Low-light unauthorized-presence detection and perimeter risk analytics |
+| [Automated Invoice Processing Agent](https://github.com/partomahsiavash/automated-invoice-processing-agent) | OCR validation, anomaly review, and human-supervised approval routing |
+| [AI Industrial Safety Monitoring](https://github.com/partomahsiavash/ai-industrial-safety-monitoring) | PPE, hazardous-zone, and proximity-risk analysis for engineering environments |
+
+Every project includes an interactive dashboard, reproducible synthetic evaluation, generated evidence artifacts, tests, CI, documentation, and clearly stated deployment limitations.
+
+## Featured AI Research Projects
 
 <table>
 <tr>
