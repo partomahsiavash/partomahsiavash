@@ -54,6 +54,19 @@ Every project includes an interactive dashboard, reproducible synthetic evaluati
 
 <table>
 <tr>
+<td width="38%" valign="top">
+<a href="https://github.com/partomahsiavash/uncertainty-aware-iot-ids"><img src="https://raw.githubusercontent.com/partomahsiavash/uncertainty-aware-iot-ids/main/graphical-abstract.jpg" alt="Graphical abstract for uncertainty-aware IoT intrusion detection" width="340"></a>
+</td>
+<td width="62%" valign="top">
+<h3><a href="https://github.com/partomahsiavash/uncertainty-aware-iot-ids">Uncertainty-Aware IoT Intrusion Detection</a></h3>
+<p>NetFlow research on how reliably intrusion detectors generalize across datasets, identify unseen attacks, and respond to changes in network traffic.</p>
+<p><a href="https://github.com/partomahsiavash/uncertainty-aware-iot-ids/blob/main/Security_AI_Complete_Results.xlsx">Results workbook</a> · <a href="https://github.com/partomahsiavash/uncertainty-aware-iot-ids/blob/main/REPRODUCE.md">Reproduction guide</a></p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/partomahsiavash/sentinel-ai-ids"><img src="https://raw.githubusercontent.com/partomahsiavash/sentinel-ai-ids/main/assets/cover.png" alt="Sentinel AI IDS"></a>
 <h3><a href="https://github.com/partomahsiavash/sentinel-ai-ids">Sentinel AI IDS</a></h3>
@@ -72,7 +85,7 @@ Unsupervised visual anomaly detection, defect localization, evaluation curves, a
 </tr>
 </table>
 
-> Each repository includes reproducible synthetic demonstrations, generated evidence artifacts, tests, CI, and clear limitations. Demo metrics are not presented as production or clinical benchmarks.
+> Sentinel AI IDS, MedVision XAI, and DefectLens AI include reproducible synthetic demonstrations, generated evidence artifacts, tests, CI, and clear limitations. Demo metrics are not presented as production or clinical benchmarks.
 
 ## Selected Research & Engineering Work
 
