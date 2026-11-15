@@ -67,6 +67,19 @@ Every project includes an interactive dashboard, reproducible synthetic evaluati
 
 <table>
 <tr>
+<td width="38%" valign="top">
+<a href="https://github.com/partomahsiavash/hydrogen-brine-coreflood"><img src="https://raw.githubusercontent.com/partomahsiavash/hydrogen-brine-coreflood/main/coreflood-cover.jpg" alt="Concept illustration for Hydrogen–Brine Core-Flood Modeling" width="340"></a>
+</td>
+<td width="62%" valign="top">
+<h3><a href="https://github.com/partomahsiavash/hydrogen-brine-coreflood">Hydrogen–Brine Core-Flood Modeling</a></h3>
+<p>Bayesian inverse modeling for liquid-recovery forecasts, uncertainty, and identifiability in laboratory core floods.</p>
+<p><a href="https://github.com/partomahsiavash/hydrogen-brine-coreflood#method">Method</a> · <a href="https://github.com/partomahsiavash/hydrogen-brine-coreflood#selected-results">Selected results</a></p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/partomahsiavash/sentinel-ai-ids"><img src="https://raw.githubusercontent.com/partomahsiavash/sentinel-ai-ids/main/assets/cover.png" alt="Sentinel AI IDS"></a>
 <h3><a href="https://github.com/partomahsiavash/sentinel-ai-ids">Sentinel AI IDS</a></h3>
